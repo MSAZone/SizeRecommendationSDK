@@ -1,0 +1,22 @@
+# Xcode
+*.xcuserdata
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+build/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.lock
+
+# Carthage
+Carthage/Build/
+
+# General
+.DS_Store
