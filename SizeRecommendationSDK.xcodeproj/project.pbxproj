@@ -6,12 +6,7 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		057152C72E693D0D00BA80C0 /* SizeRecommendationSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 057152C52E693D0D00BA80C0 /* SizeRecommendationSDK.h */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		057152C52E693D0D00BA80C0 /* SizeRecommendationSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SizeRecommendationSDK.h; sourceTree = "<group>"; };
 		057152C82E693D1500BA80C0 /* SizeRecommendationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizeRecommendationViewController.swift; sourceTree = "<group>"; };
 		057152C92E693D2E00BA80C0 /* SizeCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizeCalculator.swift; sourceTree = "<group>"; };
 		057152CD2E69400400BA80C0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
@@ -44,7 +39,6 @@
 			isa = PBXGroup;
 			children = (
 				057152C42E693D0D00BA80C0 /* SizeRecommendationSDK */,
-				057152C52E693D0D00BA80C0 /* SizeRecommendationSDK.h */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -75,7 +69,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				057152C72E693D0D00BA80C0 /* SizeRecommendationSDK.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
