@@ -27,5 +27,11 @@ A lightweight iOS SDK to recommend clothing sizes based on height & weight.
 ### Swift Package Manager
 1. Go to **File > Add Packages** in Xcode.
 2. Add repo URL:  
-   ```text
-   https://github.com/MSAZone/SizeRecommendationSDK.git
+    ```text
+    https://github.com/MSAZone/SizeRecommendationSDK.git   
+3. Import the SDK in your SwiftUI file:
+    ```text
+    import SizeRecommendationSDK
+4. Embed the SizeRecommendationView in your SwiftUI view hierarchy:
+    ```text
+    SizeRecommendationView()
