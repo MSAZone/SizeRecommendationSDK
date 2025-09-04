@@ -6,11 +6,11 @@ A lightweight iOS SDK to recommend clothing sizes based on height & weight.
 
 ## Screenshots
 
-### Input Screen
-<img src="https://raw.githubusercontent.com/MSAZone/SizeRecommendationSDK/refs/heads/main/images/InputScreen.png" width="300">
-
-### Result Popup
-<img src="https://raw.githubusercontent.com/MSAZone/SizeRecommendationSDK/refs/heads/main/images/ResultScreen.png" width="300">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MSAZone/SizeRecommendationSDK/refs/heads/main/images/InputScreen.png" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MSAZone/SizeRecommendationSDK/refs/heads/main/images/ResultScreen.png" width="300" />
+</p>
 
 ---
 
