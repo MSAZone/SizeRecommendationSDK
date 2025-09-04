@@ -2,7 +2,7 @@
 //  SizeRecommendationExampleApp.swift
 //  SizeRecommendationExample
 //
-//  Created by Manoj Maurya (MSAZone) on 04/09/25.
+//  Created by ManojKumar Maurya (MSAZone) on 04/09/25.
 //
 
 import SwiftUI
